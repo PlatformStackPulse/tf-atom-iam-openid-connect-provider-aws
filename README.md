@@ -24,7 +24,7 @@ Terraform atom: AWS IAM OpenID Connect Provider - creates an OIDC identity provi
 
 | Name | Version |
 |------|---------|
-| <a name="provider_aws"></a> [aws](#provider\_aws) | 6.46.0 |
+| <a name="provider_aws"></a> [aws](#provider\_aws) | >= 5.0.0 |
 
 ### Modules
 
